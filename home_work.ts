@@ -61,7 +61,7 @@ console.log(mysym);
   let student_age : number = 20;
   console.log(student_age);
 
-  //                      =======> Pascan Casel <=======
+  //                      =======> Pascal case <=======
 
   let StudentGrade : string = "A";
   console.log(StudentGrade);
